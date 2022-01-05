@@ -25,24 +25,21 @@ description: >- # this means to ignore newlines until "baseurl:"
   designed for writers and bloggers of all kinds.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://purelog.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
-repository: brennanbrown/purelog
-twitter: brennankbrown
-github: brennanbrown
+repository: Parsavazifeh/labexam
+twitter: Parsaspeed
+github: Parsavazifeh
 
-header_image: assets/profile.png
+header_image: assets/profile.JPG
 
 google_analytics:
 comments: true
 disqus: purelog-jekyll
 
-author: Brennan K. Brown
+author: Parsa vazifeh
 author_bio: >-
-  Hey there! 😄 My name is Brennan, I'm a 25-year-old Métis web developer and 
-  content strategist from Winnipeg, Manitoba and currently reside in Calgary, 
-  Alberta. I've recently compeleted a Full Stack Developer Program at EvolveU, 
-  and I'm looking to help those that need web development work done, or 
-  searching for ideas and management for their next content project.
-author_pic: https://brennanbrown.ca/img/avatar.png
+  Hey there! 😄 My name is Parsa, I'm a 19-year-old student at the college of  
+  Iran unvesity of science and technology.
+author_pic: assets/profile.JPG
 paginate: 4
 paginate_path: "/:num/"
 
@@ -66,8 +63,8 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      author: Brennan K. Brown
-      avatar: assets/profile-sm.png
+      author: Parsa vazifeh
+      avatar: assets/profile.JPG
   - scope:
       path: ""
       type: notes
