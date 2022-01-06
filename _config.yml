@@ -27,7 +27,7 @@ repository: Parsavazifeh/labexam
 twitter: Parsaspeed
 github: Parsavazifeh
 
-header_image: assets/profile.png
+header_image: assets/img_tree.png
 
 google_analytics:
 comments: true
@@ -62,7 +62,7 @@ defaults:
     values:
       layout: "post"
       author: Parsa vazifeh
-      avatar: assets/profile.png
+      avatar: assets/img_tree.png
   - scope:
       path: ""
       type: notes
