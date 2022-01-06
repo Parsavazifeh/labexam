@@ -27,7 +27,7 @@ repository: Parsavazifeh/labexam
 twitter: Parsaspeed
 github: Parsavazifeh
 
-header_image: assets/profile.JPG
+header_image: assets/profile.png
 
 google_analytics:
 comments: true
@@ -37,7 +37,7 @@ author: Parsa vazifeh
 author_bio: >-
   Hey there! 😄 My name is Parsa, I'm a 19-year-old student at the college of  
   Iran unvesity of science and technology.
-author_pic: assets/profile.JPG
+author_pic: assets/profile.png
 paginate: 4
 paginate_path: "/:num/"
 
@@ -62,7 +62,7 @@ defaults:
     values:
       layout: "post"
       author: Parsa vazifeh
-      avatar: assets/profile.JPG
+      avatar: assets/profile.png
   - scope:
       path: ""
       type: notes
