@@ -19,10 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Purelog: for Writers"
-email: mail@brennanbrown.ca
+email: Parsavazifae@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A responsive sidebar Jekyll theme using the Pure.css framework, 
-  designed for writers and bloggers of all kinds.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://purelog.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 repository: Parsavazifeh/labexam
